@@ -16,11 +16,11 @@ I'm currently learning on building AI agents and building SaaS apps.
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=dwayne-dcosta&theme=vue-dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=HyperShark1007&theme=gruvbox&no-frame=true&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=dwayne-dcosta&theme=gruvbox&no-frame=true&no-bg=true&margin-w=4)
 
 
 
 ---
-[![](https://visitcount.itsvg.in/api?id=HyperShark1007&icon=2&color=1)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=dwayne-dcosta&icon=2&color=1)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
