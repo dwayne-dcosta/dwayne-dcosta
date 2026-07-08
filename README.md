@@ -1,7 +1,7 @@
 # 💫 About Me:
 I'm currently learning on building AI agents and building SaaS apps.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hypershark1007&label=Profile%20views&color=0e75b6&style=flat" alt="hypershark1007" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dwayne-dcosta&label=Profile%20views&color=0e75b6&style=flat" alt="dwayne-dcosta" /> </p>
 
 
 ## 🌐 Socials:
